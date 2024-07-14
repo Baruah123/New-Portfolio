@@ -335,7 +335,9 @@ footer {
     header h1 {
         font-size: 2rem;
     }
-
+   header nav {
+        display: none; /* Hide the navbar */
+    }
     header p {
         font-size: 1rem;
     }
